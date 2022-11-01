@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risvaaa12" alt="risvaaa12" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently study in [Universitas Pendidikan Ganesha](https://undiksha.ac.id/)
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **risvadarma@gmail.com**
 
 - ⚡ Fun fact **I don't really like coding**
+
 
 
 
