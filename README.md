@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Risva Darma Sentana</h1>
-<h3 align="center">Computer Science Department Student✌</h3>
+<h3 align="center">Github Stats✌</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risvaaa12" alt="risvaaa12" /></a> </p>
